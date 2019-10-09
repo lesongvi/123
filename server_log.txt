@@ -1,0 +1,901 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:21:07] weburl = "www.sa-mp.com"  (string)
+[13:21:07] 
+[13:21:07] Server Plugins
+[13:21:07] --------------
+[13:21:07]  Loading plugin: streamer
+[13:21:08] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[13:21:08]   Loaded.
+[13:21:08]  Loading plugin: mysql
+[13:21:08]  >> plugin.mysql: R33 successfully loaded.
+[13:21:08]   Loaded.
+[13:21:08]  Loading plugin: mysql2
+[13:21:08]   Failed.
+[13:21:08]  Loading plugin: sscanf
+[13:21:08] 
+
+[13:21:08]  ===============================
+
+[13:21:08]       sscanf plugin loaded.     
+
+[13:21:08]          Version:  2.8.1        
+
+[13:21:08]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:21:08]  ===============================
+
+[13:21:08]   Loaded.
+[13:21:08]  Loading plugin: crashdetect
+[13:21:08]   Failed.
+[13:21:08]  Loading plugin: whirlpool
+[13:21:08]  
+[13:21:08]  ==================
+[13:21:08]  
+[13:21:08]   Whirlpool loaded
+[13:21:08]  
+[13:21:08]  ==================
+[13:21:08]  
+[13:21:08]   Loaded.
+[13:21:08]  Loading plugin: audio
+[13:21:08] 
+*** Audio Plugin v0.4 by Incognito loaded ***
+
+[13:21:08]   Loaded.
+[13:21:08]  Loaded 5 plugins.
+
+[13:21:08] 
+[13:21:08] Filterscripts
+[13:21:08] ---------------
+[13:21:08]   Loading filterscript 'exterior.amx'...
+[13:21:08]   Loading filterscript 'interior.amx'...
+[13:21:08]   Loading filterscript 'object.amx'...
+[13:21:08]   Loading filterscript 'removebuilding.amx'...
+[13:21:08] RemoveBuilding Filterscript Initiated
+[13:21:08]   Loaded 4 filterscripts.
+
+[13:21:09]  
+[13:21:09]  ======================================= 
+[13:21:09]  |                                     | 
+[13:21:09]  |        YSI version 3.01.0002        | 
+[13:21:09]  |        By Alex "Y_Less" Cole        | 
+[13:21:09]  |                                     | 
+[13:21:09]  ======================================= 
+[13:21:09]  
+[13:21:09] Dang chuan bi tai gamemode, xin vui long cho doi...
+[13:21:09] [MySQL] (Main Pipelines) Connecting to 127.0.0.1...
+[13:21:09] [MySQL] (MainPipeline) Connection successful toward MySQL Database Server!
+[13:21:09] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[13:21:09] [LoadCrates] Load Query Sent
+[13:21:09] [LoadHouses] Loading data from database...
+[13:21:09] [LoadDynamicDoors] Loading data from database...
+[13:21:09] [LoadDynamicMapIcons] Loading data from database...
+[13:21:09] [LoadMailboxes] Loading data from database...
+[13:21:09] [LoadBusinesses] Loading data from database...
+[13:21:09] [LoadAuctions] Loading data from database...
+[13:21:09] [LoadTxtLabels] Loading data from database...
+[13:21:09] [LoadPlants] Loading data from database...
+[13:21:09] [SpeedCameras] Loading data from database...
+[13:21:09] [LoadPayNSprays] Loading data from database...
+[13:21:09] [LoadArrestPoints] Loading data from database...
+[13:21:09] [LoadImpoundPoints] Loading data from database...
+[13:21:09] [LoadRelayForLifeTeams] Loading data from database...
+[13:21:09] [LoadBusinessSales] Loading data from database...
+[13:21:09] -mSelection- WARNING: Failed to load list: "planes.txt"
+[13:21:09] -mSelection- WARNING: Failed to load list: "otos.txt"
+[13:21:09] -mSelection- WARNING: Failed to load list: "ships.txt"
+[13:21:09] -mSelection- WARNING: Failed to load list: "gangvehlist.txt"
+[13:21:10] [LoadTurfWars] 0 turfs loaded.
+[13:21:10] [LoadPaintballArenas] 10 paintball arenas loaded.
+[13:21:10] [LoadEventPoints] 0 event points loaded.
+[13:21:10] [LoadGates] Loading data from database...
+[13:21:10] [LoadElevatorStuff] 20 floors loaded.
+[13:21:10] [LoadFamilies] Dang tai du lieu tu database...
+[13:21:10] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[13:21:10] [MiscLoad] Misc Loaded
+[13:21:10] Resetting news...
+[13:21:10] Resetting default server variables..
+[13:21:10] Adjusted the server time...
+[13:21:10] [Streamer] Loading Dynamic Static Vehicles...
+[13:21:10] [Streamer] Dynamic Static Vehicles has been loaded.
+[13:21:11] [Streamer] Loading Dynamic Pickups...
+[13:21:11] [Streamer] Dynamic Pickups has been loaded.
+[13:21:11] [Streamer] Loading 3D Text Labels...
+[13:21:11] [Streamer] Dynamic 3D Text Labels has been loaded.
+[13:21:11] [Streamer] Loading Dynamic Buttons...
+[13:21:11] [Streamer] Dynamic Buttons has been loaded.
+[13:21:11] [Streamer] Loading Dynamic Objects...
+[13:21:11] [Streamer] Dynamic Objects has been loaded.
+[13:21:11] [Textdraws] Loading Textdraws...
+[13:21:11] [Textdraws] Loaded textdraws.
+[13:21:11] [Dynamic Groups] Loading Dynamic Groups...
+[13:21:11] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[13:21:11] 
+---------------------------------------------------------------------------
+[13:21:11] Gamemode M26:Gaming Roleplay da tai thanh cong voi phien ban M26:RP v1.0.0
+[13:21:11] ---------------------------------------------------------------------------
+[13:21:11] Number of vehicle models: 25
+[13:21:11]  
+[13:21:11]  
+[13:21:11] [Dynamic Giftbox] da tai thanh cong Dynamic giftbox.
+[13:21:11] [LoadCrates] Loading Crates Finished
+[13:21:11] [LoadHouses] 3000 ngoi nha duoc tai.
+[13:21:11] [LoadDynamicDoors] 3000 door duoc tai.
+[13:21:11] [LoadDynamicMapIcons] 400 icons map duoc tai.
+[13:21:11] [LoadMailboxes] 50 mailboxes duoc tai.
+[13:21:12] [LoadBusinesses] 200 businesses rehashed/loaded.
+[13:21:12] [LoadPlants] Successfully loaded 300 plants
+[13:21:12] [SpeedCameras] Tai 17 May ban toc do.
+[13:21:12] [LoadRelayForLifeTeams] 200 teams loaded.
+[13:21:12] TotalSold0: 0 | AmountMade0: 0
+[13:21:12] TotalSold1: 0 | AmountMade1: 0
+[13:21:12] TotalSold2: 0 | AmountMade2: 0
+[13:21:12] TotalSold3: 0 | AmountMade3: 0
+[13:21:12] TotalSold4: 0 | AmountMade4: 0
+[13:21:12] TotalSold5: 0 | AmountMade5: 0
+[13:21:12] TotalSold6: 0 | AmountMade6: 0
+[13:21:12] TotalSold7: 0 | AmountMade7: 0
+[13:21:12] TotalSold8: 0 | AmountMade8: 0
+[13:21:12] TotalSold9: 0 | AmountMade9: 0
+[13:21:12] TotalSold10: 0 | AmountMade10: 0
+[13:21:12] TotalSold11: 0 | AmountMade11: 0
+[13:21:12] TotalSold12: 0 | AmountMade12: 0
+[13:21:12] TotalSold13: 0 | AmountMade13: 0
+[13:21:12] TotalSold14: 0 | AmountMade14: 0
+[13:21:12] TotalSold15: 0 | AmountMade15: 0
+[13:21:12] TotalSold16: 0 | AmountMade16: 0
+[13:21:12] TotalSold17: 0 | AmountMade17: 0
+[13:21:12] TotalSold18: 0 | AmountMade18: 0
+[13:21:12] TotalSold19: 0 | AmountMade19: 0
+[13:21:12] TotalSold20: 0 | AmountMade20: 0
+[13:21:12] TotalSold21: 0 | AmountMade21: 0
+[13:21:12] TotalSold22: 0 | AmountMade22: 0
+[13:21:12] TotalSold23: 0 | AmountMade23: 0
+[13:21:12] TotalSold24: 0 | AmountMade24: 0
+[13:21:12] TotalSold25: 0 | AmountMade25: 0
+[13:21:12] TotalSold26: 0 | AmountMade26: 0
+[13:21:12] TotalSold27: 0 | AmountMade27: 0
+[13:21:12] TotalSold28: 0 | AmountMade28: 0
+[13:21:12] TotalSold29: 0 | AmountMade29: 0
+[13:21:12] Price0: 1000
+[13:21:12] Price1: 199
+[13:21:12] Price2: 180
+[13:21:12] Price3: 80
+[13:21:12] Price4: 100
+[13:21:12] Price5: 300
+[13:21:12] Price6: 250
+[13:21:12] Price7: 100
+[13:21:12] Price8: 25
+[13:21:12] Price9: 80
+[13:21:12] Price10: 25
+[13:21:12] Price11: 150
+[13:21:12] Price12: 200
+[13:21:12] Price13: 300
+[13:21:12] Price14: 299
+[13:21:12] Price15: 100
+[13:21:12] Price16: 60
+[13:21:12] Price17: 50
+[13:21:12] Price18: 2
+[13:21:12] Price19: 4
+[13:21:12] Price20: 11
+[13:21:12] Price21: 10000
+[13:21:12] Price22: 50
+[13:21:12] Price23: 149
+[13:21:12] Price24: 2
+[13:21:12] Price25: 300
+[13:21:12] Price26: 400
+[13:21:12] Price27: 500
+[13:21:12] Price28: 100
+[13:21:12] Price29: 29
+[13:21:12] [Family Points] 8 family points has been loaded.
+[13:21:56] [connection] 127.0.0.1:60848 requests connection cookie.
+[13:21:57] [connection] incoming connection: 127.0.0.1:60848 id: 0
+[13:21:57] [join] M26 has joined the server (0:127.0.0.1)
+[13:22:16] [He Thong] Da luu lai thong tin tai khoan thanh cong.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:23:19] weburl = "www.sa-mp.com"  (string)
+[13:23:19] 
+[13:23:19] Server Plugins
+[13:23:19] --------------
+[13:23:19]  Loading plugin: streamer
+[13:23:19] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[13:23:19]   Loaded.
+[13:23:19]  Loading plugin: mysql
+[13:23:19]  >> plugin.mysql: R33 successfully loaded.
+[13:23:19]   Loaded.
+[13:23:19]  Loading plugin: mysql2
+[13:23:19]   Failed.
+[13:23:19]  Loading plugin: sscanf
+[13:23:19] 
+
+[13:23:19]  ===============================
+
+[13:23:19]       sscanf plugin loaded.     
+
+[13:23:19]          Version:  2.8.1        
+
+[13:23:19]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:23:19]  ===============================
+
+[13:23:19]   Loaded.
+[13:23:19]  Loading plugin: crashdetect
+[13:23:19]   Failed.
+[13:23:19]  Loading plugin: whirlpool
+[13:23:19]  
+[13:23:19]  ==================
+[13:23:19]  
+[13:23:19]   Whirlpool loaded
+[13:23:19]  
+[13:23:19]  ==================
+[13:23:19]  
+[13:23:19]   Loaded.
+[13:23:19]  Loading plugin: audio
+[13:23:19] 
+*** Audio Plugin v0.4 by Incognito loaded ***
+
+[13:23:19]   Loaded.
+[13:23:19]  Loaded 5 plugins.
+
+[13:23:19] 
+[13:23:19] Filterscripts
+[13:23:19] ---------------
+[13:23:19]   Loading filterscript 'exterior.amx'...
+[13:23:19]   Loading filterscript 'interior.amx'...
+[13:23:19]   Loading filterscript 'object.amx'...
+[13:23:19]   Loading filterscript 'removebuilding.amx'...
+[13:23:19] RemoveBuilding Filterscript Initiated
+[13:23:19]   Loaded 4 filterscripts.
+
+[13:23:19]  
+[13:23:19]  ======================================= 
+[13:23:19]  |                                     | 
+[13:23:19]  |        YSI version 3.01.0002        | 
+[13:23:19]  |        By Alex "Y_Less" Cole        | 
+[13:23:19]  |                                     | 
+[13:23:19]  ======================================= 
+[13:23:19]  
+[13:23:19] Dang chuan bi tai gamemode, xin vui long cho doi...
+[13:23:19] [MySQL] (Main Pipelines) Connecting to 127.0.0.1...
+[13:23:19] [MySQL] (MainPipeline) Connection successful toward MySQL Database Server!
+[13:23:19] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[13:23:19] [LoadCrates] Load Query Sent
+[13:23:19] [LoadHouses] Loading data from database...
+[13:23:19] [LoadDynamicDoors] Loading data from database...
+[13:23:19] [LoadDynamicMapIcons] Loading data from database...
+[13:23:19] [LoadMailboxes] Loading data from database...
+[13:23:19] [LoadBusinesses] Loading data from database...
+[13:23:19] [LoadAuctions] Loading data from database...
+[13:23:19] [LoadTxtLabels] Loading data from database...
+[13:23:19] [LoadPlants] Loading data from database...
+[13:23:19] [SpeedCameras] Loading data from database...
+[13:23:19] [LoadPayNSprays] Loading data from database...
+[13:23:19] [LoadArrestPoints] Loading data from database...
+[13:23:19] [LoadImpoundPoints] Loading data from database...
+[13:23:19] [LoadRelayForLifeTeams] Loading data from database...
+[13:23:19] [LoadBusinessSales] Loading data from database...
+[13:23:19] -mSelection- WARNING: Failed to load list: "planes.txt"
+[13:23:19] -mSelection- WARNING: Failed to load list: "otos.txt"
+[13:23:19] -mSelection- WARNING: Failed to load list: "ships.txt"
+[13:23:19] -mSelection- WARNING: Failed to load list: "gangvehlist.txt"
+[13:23:19] [LoadTurfWars] 0 turfs loaded.
+[13:23:19] [LoadPaintballArenas] 10 paintball arenas loaded.
+[13:23:19] [LoadEventPoints] 0 event points loaded.
+[13:23:19] [LoadGates] Loading data from database...
+[13:23:19] [LoadElevatorStuff] 20 floors loaded.
+[13:23:19] [LoadFamilies] Dang tai du lieu tu database...
+[13:23:19] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[13:23:19] [MiscLoad] Misc Loaded
+[13:23:19] Resetting news...
+[13:23:19] Resetting default server variables..
+[13:23:19] Adjusted the server time...
+[13:23:19] [Streamer] Loading Dynamic Static Vehicles...
+[13:23:19] [Streamer] Dynamic Static Vehicles has been loaded.
+[13:23:19] [Streamer] Loading Dynamic Pickups...
+[13:23:19] [Streamer] Dynamic Pickups has been loaded.
+[13:23:19] [Streamer] Loading 3D Text Labels...
+[13:23:19] [Streamer] Dynamic 3D Text Labels has been loaded.
+[13:23:19] [Streamer] Loading Dynamic Buttons...
+[13:23:19] [Streamer] Dynamic Buttons has been loaded.
+[13:23:19] [Streamer] Loading Dynamic Objects...
+[13:23:19] [Streamer] Dynamic Objects has been loaded.
+[13:23:19] [Textdraws] Loading Textdraws...
+[13:23:19] [Textdraws] Loaded textdraws.
+[13:23:19] [Dynamic Groups] Loading Dynamic Groups...
+[13:23:19] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[13:23:19] 
+---------------------------------------------------------------------------
+[13:23:19] Gamemode M26:Gaming Roleplay da tai thanh cong voi phien ban M26:RP v1.0.0
+[13:23:19] ---------------------------------------------------------------------------
+[13:23:19] Number of vehicle models: 25
+[13:23:19] [Dynamic Giftbox] da tai thanh cong Dynamic giftbox.
+[13:23:19] [LoadCrates] Loading Crates Finished
+[13:23:20] [LoadHouses] 3000 ngoi nha duoc tai.
+[13:23:20] [LoadDynamicDoors] 3000 door duoc tai.
+[13:23:20] [LoadDynamicMapIcons] 400 icons map duoc tai.
+[13:23:20] [LoadMailboxes] 50 mailboxes duoc tai.
+[13:23:20] [LoadBusinesses] 200 businesses rehashed/loaded.
+[13:23:20] [LoadPlants] Successfully loaded 300 plants
+[13:23:20] [SpeedCameras] Tai 17 May ban toc do.
+[13:23:20] [LoadRelayForLifeTeams] 200 teams loaded.
+[13:23:20] TotalSold0: 0 | AmountMade0: 0
+[13:23:20] TotalSold1: 0 | AmountMade1: 0
+[13:23:20] TotalSold2: 0 | AmountMade2: 0
+[13:23:20] TotalSold3: 0 | AmountMade3: 0
+[13:23:20] TotalSold4: 0 | AmountMade4: 0
+[13:23:20] TotalSold5: 0 | AmountMade5: 0
+[13:23:20] TotalSold6: 0 | AmountMade6: 0
+[13:23:20] TotalSold7: 0 | AmountMade7: 0
+[13:23:20] TotalSold8: 0 | AmountMade8: 0
+[13:23:20] TotalSold9: 0 | AmountMade9: 0
+[13:23:20] TotalSold10: 0 | AmountMade10: 0
+[13:23:20] TotalSold11: 0 | AmountMade11: 0
+[13:23:20] TotalSold12: 0 | AmountMade12: 0
+[13:23:20] TotalSold13: 0 | AmountMade13: 0
+[13:23:20] TotalSold14: 0 | AmountMade14: 0
+[13:23:20] TotalSold15: 0 | AmountMade15: 0
+[13:23:20] TotalSold16: 0 | AmountMade16: 0
+[13:23:20] TotalSold17: 0 | AmountMade17: 0
+[13:23:20] TotalSold18: 0 | AmountMade18: 0
+[13:23:20] TotalSold19: 0 | AmountMade19: 0
+[13:23:20] TotalSold20: 0 | AmountMade20: 0
+[13:23:20] TotalSold21: 0 | AmountMade21: 0
+[13:23:20] TotalSold22: 0 | AmountMade22: 0
+[13:23:20] TotalSold23: 0 | AmountMade23: 0
+[13:23:20] TotalSold24: 0 | AmountMade24: 0
+[13:23:20] TotalSold25: 0 | AmountMade25: 0
+[13:23:20] TotalSold26: 0 | AmountMade26: 0
+[13:23:20] TotalSold27: 0 | AmountMade27: 0
+[13:23:20] TotalSold28: 0 | AmountMade28: 0
+[13:23:20] TotalSold29: 0 | AmountMade29: 0
+[13:23:20] Price0: 1000
+[13:23:20] Price1: 199
+[13:23:20] Price2: 180
+[13:23:20] Price3: 80
+[13:23:20] Price4: 100
+[13:23:20] Price5: 300
+[13:23:20] Price6: 250
+[13:23:20] Price7: 100
+[13:23:20] Price8: 25
+[13:23:20] Price9: 80
+[13:23:20] Price10: 25
+[13:23:20] Price11: 150
+[13:23:20] Price12: 200
+[13:23:20] Price13: 300
+[13:23:20] Price14: 299
+[13:23:20] Price15: 100
+[13:23:20] Price16: 60
+[13:23:20] Price17: 50
+[13:23:20] Price18: 2
+[13:23:20] Price19: 4
+[13:23:20] Price20: 11
+[13:23:20] Price21: 10000
+[13:23:20] Price22: 50
+[13:23:20] Price23: 149
+[13:23:20] Price24: 2
+[13:23:20] Price25: 300
+[13:23:20] Price26: 400
+[13:23:20] Price27: 500
+[13:23:20] Price28: 100
+[13:23:20] Price29: 29
+[13:23:20] [Family Points] 8 family points has been loaded.
+[13:23:22]  
+[13:23:22]  
+[13:23:54] [connection] 127.0.0.1:54237 requests connection cookie.
+[13:23:55] [connection] incoming connection: 127.0.0.1:54237 id: 0
+[13:23:56] [join] M26 has joined the server (0:127.0.0.1)
+[13:24:13] Thai Nguyen has logged in.
+[13:24:14] [He Thong] Da luu lai thong tin tai khoan thanh cong.
+[13:24:14] [He Thong] Da luu lai thong tin tai khoan thanh cong.
+[13:25:56] [part] Thai_Nguyen has left the server (0:1)
+[13:26:02] --- Server Shutting Down.
+[13:26:02] 
+
+*** Streamer Plugin v2.6.1 by Incognito unloaded ***
+
+[13:26:02] plugin.mysql: Unloading plugin...
+[13:26:02] plugin.mysql: Plugin unloaded.
+[13:26:02] 
+
+[13:26:02]  ===============================
+
+[13:26:02]      sscanf plugin unloaded.    
+
+[13:26:02]  ===============================
+
+[13:26:02]  
+[13:26:02]  ====================
+[13:26:02]  
+[13:26:02]   Whirlpool unloaded
+[13:26:02]  
+[13:26:02]  ====================
+[13:26:02]  
+[13:26:02] 
+*** Audio Plugin v0.4 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:02:54] weburl = "www.sa-mp.com"  (string)
+[21:02:54] 
+[21:02:54] Server Plugins
+[21:02:54] --------------
+[21:02:54]  Loading plugin: streamer
+[21:02:54] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[21:02:54]   Loaded.
+[21:02:54]  Loading plugin: mysql
+[21:02:55]  >> plugin.mysql: R33 successfully loaded.
+[21:02:55]   Loaded.
+[21:02:55]  Loading plugin: mysql2
+[21:02:55]   Failed.
+[21:02:55]  Loading plugin: sscanf
+[21:02:55] 
+
+[21:02:55]  ===============================
+
+[21:02:55]       sscanf plugin loaded.     
+
+[21:02:55]          Version:  2.8.1        
+
+[21:02:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:02:55]  ===============================
+
+[21:02:55]   Loaded.
+[21:02:55]  Loading plugin: crashdetect
+[21:02:55]   Failed.
+[21:02:55]  Loading plugin: whirlpool
+[21:02:55]  
+[21:02:55]  ==================
+[21:02:55]  
+[21:02:55]   Whirlpool loaded
+[21:02:55]  
+[21:02:55]  ==================
+[21:02:55]  
+[21:02:55]   Loaded.
+[21:02:55]  Loading plugin: audio
+[21:02:55] 
+*** Audio Plugin v0.4 by Incognito loaded ***
+
+[21:02:55]   Loaded.
+[21:02:55]  Loaded 5 plugins.
+
+[21:02:55] 
+[21:02:55] Filterscripts
+[21:02:55] ---------------
+[21:02:55]   Loading filterscript 'exterior.amx'...
+[21:02:55]   Loading filterscript 'interior.amx'...
+[21:02:55]   Loading filterscript 'object.amx'...
+[21:02:55]   Loading filterscript 'removebuilding.amx'...
+[21:02:55] RemoveBuilding Filterscript Initiated
+[21:02:55]   Loaded 4 filterscripts.
+
+[21:02:56]  
+[21:02:56]  ======================================= 
+[21:02:56]  |                                     | 
+[21:02:56]  |        YSI version 3.01.0002        | 
+[21:02:56]  |        By Alex "Y_Less" Cole        | 
+[21:02:56]  |                                     | 
+[21:02:56]  ======================================= 
+[21:02:56]  
+[21:02:56] Dang chuan bi tai gamemode, xin vui long cho doi...
+[21:02:56] [MySQL] (Main Pipelines) Connecting to 127.0.0.1...
+[21:02:56] [MySQL] (MainPipeline) Connection successful toward MySQL Database Server!
+[21:02:56] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[21:02:56] [LoadCrates] Load Query Sent
+[21:02:56] [LoadHouses] Loading data from database...
+[21:02:56] [LoadDynamicDoors] Loading data from database...
+[21:02:56] [LoadDynamicMapIcons] Loading data from database...
+[21:02:56] [LoadMailboxes] Loading data from database...
+[21:02:56] [LoadBusinesses] Loading data from database...
+[21:02:56] [LoadAuctions] Loading data from database...
+[21:02:56] [LoadTxtLabels] Loading data from database...
+[21:02:56] [LoadPlants] Loading data from database...
+[21:02:56] [SpeedCameras] Loading data from database...
+[21:02:56] [LoadPayNSprays] Loading data from database...
+[21:02:56] [LoadArrestPoints] Loading data from database...
+[21:02:56] [LoadImpoundPoints] Loading data from database...
+[21:02:56] [LoadRelayForLifeTeams] Loading data from database...
+[21:02:56] [LoadBusinessSales] Loading data from database...
+[21:02:56] -mSelection- WARNING: Failed to load list: "planes.txt"
+[21:02:56] -mSelection- WARNING: Failed to load list: "otos.txt"
+[21:02:56] -mSelection- WARNING: Failed to load list: "ships.txt"
+[21:02:56] -mSelection- WARNING: Failed to load list: "gangvehlist.txt"
+[21:02:56] [LoadTurfWars] 0 turfs loaded.
+[21:02:57] [LoadPaintballArenas] 10 paintball arenas loaded.
+[21:02:57] [LoadEventPoints] 0 event points loaded.
+[21:02:57] [LoadGates] Loading data from database...
+[21:02:57] [LoadElevatorStuff] 20 floors loaded.
+[21:02:57] [LoadFamilies] Dang tai du lieu tu database...
+[21:02:57] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[21:02:57] [MiscLoad] Misc Loaded
+[21:02:57] Resetting news...
+[21:02:57] Resetting default server variables..
+[21:02:57] Adjusted the server time...
+[21:02:57] [Streamer] Loading Dynamic Static Vehicles...
+[21:02:57] [Streamer] Dynamic Static Vehicles has been loaded.
+[21:02:57] [Streamer] Loading Dynamic Pickups...
+[21:02:57] [Streamer] Dynamic Pickups has been loaded.
+[21:02:57] [Streamer] Loading 3D Text Labels...
+[21:02:57] [Streamer] Dynamic 3D Text Labels has been loaded.
+[21:02:57] [Streamer] Loading Dynamic Buttons...
+[21:02:57] [Streamer] Dynamic Buttons has been loaded.
+[21:02:57] [Streamer] Loading Dynamic Objects...
+[21:02:57] [Streamer] Dynamic Objects has been loaded.
+[21:02:57] [Textdraws] Loading Textdraws...
+[21:02:57] [Textdraws] Loaded textdraws.
+[21:02:57] [Dynamic Groups] Loading Dynamic Groups...
+[21:02:57] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[21:02:57] 
+---------------------------------------------------------------------------
+[21:02:57] Gamemode M26:Gaming Roleplay da tai thanh cong voi phien ban M26:RP v1.0.0
+[21:02:57] ---------------------------------------------------------------------------
+[21:02:57] Number of vehicle models: 25
+[21:02:57] [Dynamic Giftbox] da tai thanh cong Dynamic giftbox.
+[21:02:57] [LoadCrates] Loading Crates Finished
+[21:02:57]  
+[21:02:57]  
+[21:02:57] [LoadHouses] 3000 ngoi nha duoc tai.
+[21:02:57] [LoadDynamicDoors] 3000 door duoc tai.
+[21:02:57] [LoadDynamicMapIcons] 400 icons map duoc tai.
+[21:02:57] [LoadMailboxes] 50 mailboxes duoc tai.
+[21:02:57] [LoadBusinesses] 200 businesses rehashed/loaded.
+[21:02:58] [LoadPlants] Successfully loaded 300 plants
+[21:02:58] [SpeedCameras] Tai 17 May ban toc do.
+[21:02:58] [LoadRelayForLifeTeams] 200 teams loaded.
+[21:02:58] TotalSold0: 0 | AmountMade0: 0
+[21:02:58] TotalSold1: 0 | AmountMade1: 0
+[21:02:58] TotalSold2: 0 | AmountMade2: 0
+[21:02:58] TotalSold3: 0 | AmountMade3: 0
+[21:02:58] TotalSold4: 0 | AmountMade4: 0
+[21:02:58] TotalSold5: 0 | AmountMade5: 0
+[21:02:58] TotalSold6: 0 | AmountMade6: 0
+[21:02:58] TotalSold7: 0 | AmountMade7: 0
+[21:02:58] TotalSold8: 0 | AmountMade8: 0
+[21:02:58] TotalSold9: 0 | AmountMade9: 0
+[21:02:58] TotalSold10: 0 | AmountMade10: 0
+[21:02:58] TotalSold11: 0 | AmountMade11: 0
+[21:02:58] TotalSold12: 0 | AmountMade12: 0
+[21:02:58] TotalSold13: 0 | AmountMade13: 0
+[21:02:58] TotalSold14: 0 | AmountMade14: 0
+[21:02:58] TotalSold15: 0 | AmountMade15: 0
+[21:02:58] TotalSold16: 0 | AmountMade16: 0
+[21:02:58] TotalSold17: 0 | AmountMade17: 0
+[21:02:58] TotalSold18: 0 | AmountMade18: 0
+[21:02:58] TotalSold19: 0 | AmountMade19: 0
+[21:02:58] TotalSold20: 0 | AmountMade20: 0
+[21:02:58] TotalSold21: 0 | AmountMade21: 0
+[21:02:58] TotalSold22: 0 | AmountMade22: 0
+[21:02:58] TotalSold23: 0 | AmountMade23: 0
+[21:02:58] TotalSold24: 0 | AmountMade24: 0
+[21:02:58] TotalSold25: 0 | AmountMade25: 0
+[21:02:58] TotalSold26: 0 | AmountMade26: 0
+[21:02:58] TotalSold27: 0 | AmountMade27: 0
+[21:02:58] TotalSold28: 0 | AmountMade28: 0
+[21:02:58] TotalSold29: 0 | AmountMade29: 0
+[21:02:58] Price0: 1000
+[21:02:58] Price1: 199
+[21:02:58] Price2: 180
+[21:02:58] Price3: 80
+[21:02:58] Price4: 100
+[21:02:58] Price5: 300
+[21:02:58] Price6: 250
+[21:02:58] Price7: 100
+[21:02:58] Price8: 25
+[21:02:58] Price9: 80
+[21:02:58] Price10: 25
+[21:02:58] Price11: 150
+[21:02:58] Price12: 200
+[21:02:58] Price13: 300
+[21:02:58] Price14: 299
+[21:02:58] Price15: 100
+[21:02:58] Price16: 60
+[21:02:58] Price17: 50
+[21:02:58] Price18: 2
+[21:02:58] Price19: 4
+[21:02:58] Price20: 11
+[21:02:58] Price21: 10000
+[21:02:58] Price22: 50
+[21:02:58] Price23: 149
+[21:02:58] Price24: 2
+[21:02:58] Price25: 300
+[21:02:58] Price26: 400
+[21:02:58] Price27: 500
+[21:02:58] Price28: 100
+[21:02:58] Price29: 29
+[21:02:58] [Family Points] 8 family points has been loaded.
+[21:03:24] [connection] 127.0.0.1:55608 requests connection cookie.
+[21:03:25] [connection] incoming connection: 127.0.0.1:55608 id: 0
+[21:03:25] [join] Andre_Scofield has joined the server (0:127.0.0.1)
+[21:03:46] Thai Nguyen has logged in.
+[21:03:46] [He Thong] Da luu lai thong tin tai khoan thanh cong.
+[21:04:01] [He Thong] Da luu lai thong tin tai khoan thanh cong.
+[21:04:07] [part] Thai_Nguyen has left the server (0:1)
+[21:04:10] --- Server Shutting Down.
+[21:04:10] 
+
+*** Streamer Plugin v2.6.1 by Incognito unloaded ***
+
+[21:04:10] plugin.mysql: Unloading plugin...
+[21:04:10] plugin.mysql: Plugin unloaded.
+[21:04:10] 
+
+[21:04:10]  ===============================
+
+[21:04:10]      sscanf plugin unloaded.    
+
+[21:04:10]  ===============================
+
+[21:04:10]  
+[21:04:10]  ====================
+[21:04:10]  
+[21:04:10]   Whirlpool unloaded
+[21:04:10]  
+[21:04:10]  ====================
+[21:04:10]  
+[21:04:10] 
+*** Audio Plugin v0.4 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:55:45] weburl = "www.sa-mp.com"  (string)
+[17:55:45] 
+[17:55:45] Server Plugins
+[17:55:45] --------------
+[17:55:45]  Loading plugin: streamer
+[17:55:45] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[17:55:45]   Loaded.
+[17:55:45]  Loading plugin: mysql
+[17:55:46]  >> plugin.mysql: R33 successfully loaded.
+[17:55:46]   Loaded.
+[17:55:46]  Loading plugin: mysql2
+[17:55:46]   Failed.
+[17:55:46]  Loading plugin: sscanf
+[17:55:46] 
+
+[17:55:46]  ===============================
+
+[17:55:46]       sscanf plugin loaded.     
+
+[17:55:46]          Version:  2.8.1        
+
+[17:55:46]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:55:46]  ===============================
+
+[17:55:46]   Loaded.
+[17:55:46]  Loading plugin: crashdetect
+[17:55:46]   Failed.
+[17:55:46]  Loading plugin: whirlpool
+[17:55:46]  
+[17:55:46]  ==================
+[17:55:46]  
+[17:55:46]   Whirlpool loaded
+[17:55:46]  
+[17:55:46]  ==================
+[17:55:46]  
+[17:55:46]   Loaded.
+[17:55:46]  Loading plugin: audio
+[17:55:46] 
+*** Audio Plugin v0.4 by Incognito loaded ***
+
+[17:55:46]   Loaded.
+[17:55:46]  Loaded 5 plugins.
+
+[17:55:46] 
+[17:55:46] Filterscripts
+[17:55:46] ---------------
+[17:55:46]   Loading filterscript 'exterior.amx'...
+[17:55:46]   Loading filterscript 'interior.amx'...
+[17:55:46]   Loading filterscript 'object.amx'...
+[17:55:46]   Loading filterscript 'removebuilding.amx'...
+[17:55:46] RemoveBuilding Filterscript Initiated
+[17:55:46]   Loaded 4 filterscripts.
+
+[17:55:47]  
+[17:55:47]  ======================================= 
+[17:55:47]  |                                     | 
+[17:55:47]  |        YSI version 3.01.0002        | 
+[17:55:47]  |        By Alex "Y_Less" Cole        | 
+[17:55:47]  |                                     | 
+[17:55:47]  ======================================= 
+[17:55:47]  
+[17:55:47] Dang chuan bi tai gamemode, xin vui long cho doi...
+[17:55:47] [MySQL] (Main Pipelines) Connecting to 127.0.0.1...
+[17:55:47] [MySQL] (MainPipeline) Connection successful toward MySQL Database Server!
+[17:55:47] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[17:55:47] [LoadCrates] Load Query Sent
+[17:55:47] [LoadHouses] Loading data from database...
+[17:55:47] [LoadDynamicDoors] Loading data from database...
+[17:55:47] [LoadDynamicMapIcons] Loading data from database...
+[17:55:47] [LoadMailboxes] Loading data from database...
+[17:55:47] [LoadBusinesses] Loading data from database...
+[17:55:47] [LoadAuctions] Loading data from database...
+[17:55:47] [LoadTxtLabels] Loading data from database...
+[17:55:47] [LoadPlants] Loading data from database...
+[17:55:47] [SpeedCameras] Loading data from database...
+[17:55:47] [LoadPayNSprays] Loading data from database...
+[17:55:47] [LoadArrestPoints] Loading data from database...
+[17:55:47] [LoadImpoundPoints] Loading data from database...
+[17:55:47] [LoadRelayForLifeTeams] Loading data from database...
+[17:55:47] [LoadBusinessSales] Loading data from database...
+[17:55:47] -mSelection- WARNING: Failed to load list: "planes.txt"
+[17:55:47] -mSelection- WARNING: Failed to load list: "otos.txt"
+[17:55:47] -mSelection- WARNING: Failed to load list: "ships.txt"
+[17:55:47] -mSelection- WARNING: Failed to load list: "gangvehlist.txt"
+[17:55:47] [LoadTurfWars] 0 turfs loaded.
+[17:55:47] [LoadPaintballArenas] 10 paintball arenas loaded.
+[17:55:47] [LoadEventPoints] 0 event points loaded.
+[17:55:47] [LoadGates] Loading data from database...
+[17:55:47] [LoadElevatorStuff] 20 floors loaded.
+[17:55:47] [LoadFamilies] Dang tai du lieu tu database...
+[17:55:47] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[17:55:47] [MiscLoad] Misc Loaded
+[17:55:47] Resetting news...
+[17:55:47] Resetting default server variables..
+[17:55:47] Adjusted the server time...
+[17:55:47] [Streamer] Loading Dynamic Static Vehicles...
+[17:55:47] [Streamer] Dynamic Static Vehicles has been loaded.
+[17:55:47] [Streamer] Loading Dynamic Pickups...
+[17:55:47] [Streamer] Dynamic Pickups has been loaded.
+[17:55:47] [Streamer] Loading 3D Text Labels...
+[17:55:47] [Streamer] Dynamic 3D Text Labels has been loaded.
+[17:55:47] [Streamer] Loading Dynamic Buttons...
+[17:55:47] [Streamer] Dynamic Buttons has been loaded.
+[17:55:47] [Streamer] Loading Dynamic Objects...
+[17:55:47] [Streamer] Dynamic Objects has been loaded.
+[17:55:47] [Textdraws] Loading Textdraws...
+[17:55:47] [Textdraws] Loaded textdraws.
+[17:55:47] [Dynamic Groups] Loading Dynamic Groups...
+[17:55:47] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[17:55:47] 
+---------------------------------------------------------------------------
+[17:55:47] Gamemode M26:Gaming Roleplay da tai thanh cong voi phien ban M26:RP v1.0.0
+[17:55:47] ---------------------------------------------------------------------------
+[17:55:47] Number of vehicle models: 25
+[17:55:47] [Dynamic Giftbox] da tai thanh cong Dynamic giftbox.
+[17:55:47] [LoadCrates] Loading Crates Finished
+[17:55:47] [LoadHouses] 3000 ngoi nha duoc tai.
+[17:55:47] [LoadDynamicDoors] 3000 door duoc tai.
+[17:55:47] [LoadDynamicMapIcons] 400 icons map duoc tai.
+[17:55:47] [LoadMailboxes] 50 mailboxes duoc tai.
+[17:55:47] [LoadBusinesses] 200 businesses rehashed/loaded.
+[17:55:47]  
+[17:55:47]  
+[17:55:47] [LoadPlants] Successfully loaded 300 plants
+[17:55:47] [SpeedCameras] Tai 17 May ban toc do.
+[17:55:48] [LoadRelayForLifeTeams] 200 teams loaded.
+[17:55:48] [LOADSALEDATA] Inserted new row into `sales`
+[17:55:48] Price0: 1000
+[17:55:48] Price1: 199
+[17:55:48] Price2: 180
+[17:55:48] Price3: 80
+[17:55:48] Price4: 100
+[17:55:48] Price5: 300
+[17:55:48] Price6: 250
+[17:55:48] Price7: 100
+[17:55:48] Price8: 25
+[17:55:48] Price9: 80
+[17:55:48] Price10: 25
+[17:55:48] Price11: 150
+[17:55:48] Price12: 200
+[17:55:48] Price13: 300
+[17:55:48] Price14: 299
+[17:55:48] Price15: 100
+[17:55:48] Price16: 60
+[17:55:48] Price17: 50
+[17:55:48] Price18: 2
+[17:55:48] Price19: 4
+[17:55:48] Price20: 11
+[17:55:48] Price21: 10000
+[17:55:48] Price22: 50
+[17:55:48] Price23: 149
+[17:55:48] Price24: 2
+[17:55:48] Price25: 300
+[17:55:48] Price26: 400
+[17:55:48] Price27: 500
+[17:55:48] Price28: 100
+[17:55:48] Price29: 29
+[17:55:48] [Family Points] 8 family points has been loaded.
+[17:55:50] TotalSold0: 0 | AmountMade0: 0
+[17:55:50] TotalSold1: 0 | AmountMade1: 0
+[17:55:50] TotalSold2: 0 | AmountMade2: 0
+[17:55:50] TotalSold3: 0 | AmountMade3: 0
+[17:55:50] TotalSold4: 0 | AmountMade4: 0
+[17:55:50] TotalSold5: 0 | AmountMade5: 0
+[17:55:50] TotalSold6: 0 | AmountMade6: 0
+[17:55:50] TotalSold7: 0 | AmountMade7: 0
+[17:55:50] TotalSold8: 0 | AmountMade8: 0
+[17:55:50] TotalSold9: 0 | AmountMade9: 0
+[17:55:50] TotalSold10: 0 | AmountMade10: 0
+[17:55:50] TotalSold11: 0 | AmountMade11: 0
+[17:55:50] TotalSold12: 0 | AmountMade12: 0
+[17:55:50] TotalSold13: 0 | AmountMade13: 0
+[17:55:50] TotalSold14: 0 | AmountMade14: 0
+[17:55:50] TotalSold15: 0 | AmountMade15: 0
+[17:55:50] TotalSold16: 0 | AmountMade16: 0
+[17:55:50] TotalSold17: 0 | AmountMade17: 0
+[17:55:50] TotalSold18: 0 | AmountMade18: 0
+[17:55:50] TotalSold19: 0 | AmountMade19: 0
+[17:55:50] TotalSold20: 0 | AmountMade20: 0
+[17:55:50] TotalSold21: 0 | AmountMade21: 0
+[17:55:50] TotalSold22: 0 | AmountMade22: 0
+[17:55:50] TotalSold23: 0 | AmountMade23: 0
+[17:55:50] TotalSold24: 0 | AmountMade24: 0
+[17:55:50] TotalSold25: 0 | AmountMade25: 0
+[17:55:50] TotalSold26: 0 | AmountMade26: 0
+[17:55:50] TotalSold27: 0 | AmountMade27: 0
+[17:55:50] TotalSold28: 0 | AmountMade28: 0
+[17:55:50] TotalSold29: 0 | AmountMade29: 0
+[17:56:08] [connection] 127.0.0.1:59346 requests connection cookie.
+[17:56:09] [connection] incoming connection: 127.0.0.1:59346 id: 0
+[17:56:10] [join] M26 has joined the server (0:127.0.0.1)
+[17:56:27] Thai Nguyen has logged in.
+[17:56:27] [He Thong] Da luu lai thong tin tai khoan thanh cong.
+[17:56:52] [He Thong] Da luu lai thong tin tai khoan thanh cong.
+[17:57:19] [part] Thai_Nguyen has left the server (0:1)
+[17:57:21] --- Server Shutting Down.
+[17:57:22] 
+
+*** Streamer Plugin v2.6.1 by Incognito unloaded ***
+
+[17:57:22] plugin.mysql: Unloading plugin...
+[17:57:22] plugin.mysql: Plugin unloaded.
+[17:57:22] 
+
+[17:57:22]  ===============================
+
+[17:57:22]      sscanf plugin unloaded.    
+
+[17:57:22]  ===============================
+
+[17:57:22]  
+[17:57:22]  ====================
+[17:57:22]  
+[17:57:22]   Whirlpool unloaded
+[17:57:22]  
+[17:57:22]  ====================
+[17:57:22]  
+[17:57:22] 
+*** Audio Plugin v0.4 by Incognito unloaded ***
+
